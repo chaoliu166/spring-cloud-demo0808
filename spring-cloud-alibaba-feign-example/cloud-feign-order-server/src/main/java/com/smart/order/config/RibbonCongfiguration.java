@@ -20,6 +20,8 @@ public class RibbonCongfiguration {
         return new WeightedResponseTimeRule();
     }
 
-
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 
 }
